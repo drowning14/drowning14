@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/901101714617286686/178bf6306facc5e7e1575f52b15b31db.webp?size=4096"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -32,11 +28,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/drowning14/drowning14/output/snake.svg" alt="Snake animation" />
 
 ###
