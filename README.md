@@ -35,6 +35,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/drowning14/drowning14/output/snake.svg" alt="Snake animation" />
 
 ###
