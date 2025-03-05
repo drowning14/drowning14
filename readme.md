@@ -6,7 +6,7 @@ I'm a **Junior Front-End Developer** & **Discord Bot Developer** from Iran. I lo
 - 🔹 Passionate about **JavaScript, CSS, and HTML**
 - 🤖 Experienced in developing **Discord Bots**
 - 📚 Always learning and exploring new tech
-- 💡 "I often come up with great ideas—if only I could remember them!"
+- 💡 I often come up with great ideas—if only I could remember them!
 
 ## 📊 GitHub Stats
 ![DrowningDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drowning14&show_icons=true&theme=radical)
