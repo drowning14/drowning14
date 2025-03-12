@@ -8,9 +8,6 @@ I'm a **Junior Front-End Developer** & **Discord Bot Developer** from Iran. I lo
 - 📚 Always learning and exploring new tech
 - 💡 I often come up with great ideas—if only I could remember them!
 
-## 📊 GitHub Stats
-![DrowningDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drowning14&show_icons=true&theme=radical)
-
 ## 🔧 Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
