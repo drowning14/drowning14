@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arad
 
-I'm a **Junior Front-End Developer** & **Discord Bot Developer** from Iran. I love coding, learning new technologies, and bringing creative ideas to life!
+I'm a **Mid-Level Front-End Developer** & **Discord Bot Developer** from Iran. I love coding, learning new technologies, and bringing creative ideas to life!
 
 ## 🚀 About Me
 - 🔹 Passionate about **JavaScript, CSS, and HTML**
